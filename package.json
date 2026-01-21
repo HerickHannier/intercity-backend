@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "ts-node-dev src/server.ts",
     "start": "ts-node src/index.ts"
   },
   "keywords": [],
